@@ -1,5 +1,4 @@
 t = int(input())
-
 for _ in range(t):
     t2 = int(input())
     max, a = 0, ""
