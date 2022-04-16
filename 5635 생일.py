@@ -1,3 +1,6 @@
+from itertools import combinations
+
+
 a = []
 for _ in range(int(input())):
     name, d, m, y = input().split()
